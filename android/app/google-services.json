@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426683330130",
+    "project_id": "envolv-b0b5wt",
+    "storage_bucket": "envolv-b0b5wt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426683330130:android:db233e4a5bf344efe5f98b",
+        "android_client_info": {
+          "package_name": "com.mycompany.evolve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB40DGQ_nvViNVumVWuqMyU5kaK6_uw9Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

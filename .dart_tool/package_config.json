@@ -1,0 +1,1001 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "_flutterfire_internals",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/_flutterfire_internals-1.3.46",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/args-2.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/async-2.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "auto_size_text",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/auto_size_text-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "badges",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/badges-2.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/boolean_selector-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "cached_network_image",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/cached_network_image-3.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "cached_network_image_platform_interface",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/cached_network_image_platform_interface-4.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "cached_network_image_web",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/cached_network_image_web-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/characters-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/clock-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "cloud_firestore",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/cloud_firestore-5.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "cloud_firestore_platform_interface",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/cloud_firestore_platform_interface-6.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "cloud_firestore_web",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/cloud_firestore_web-4.3.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/collection-1.19.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/convert-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/crypto-3.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "cupertino_icons",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.8",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "dap",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/dap-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "dds_service_extensions",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/dds_service_extensions-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "debug_panel_proto",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/git/debug_panel_proto-bee37587820b37ff59af7f6da61a5ed38a73a4cd/",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "devtools_app_shared",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/devtools_app_shared-0.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
+    },
+    {
+      "name": "devtools_extensions",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/devtools_extensions-0.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
+    },
+    {
+      "name": "devtools_shared",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/devtools_shared-11.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
+    },
+    {
+      "name": "dtd",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/dtd-2.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "easy_debounce",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/easy_debounce-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "equatable",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/equatable-2.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "extension_discovery",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/extension_discovery-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "fake_async",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/fake_async-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/ffi-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/file-7.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "firebase_auth",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/firebase_auth-5.3.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "firebase_auth_platform_interface",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/firebase_auth_platform_interface-7.4.9",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "firebase_auth_web",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/firebase_auth_web-5.13.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "firebase_core",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/firebase_core-3.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "firebase_core_platform_interface",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/firebase_core_platform_interface-5.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "firebase_core_web",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/firebase_core_web-2.18.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "firebase_performance",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/firebase_performance-0.10.0+10",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "firebase_performance_platform_interface",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/firebase_performance_platform_interface-0.1.4+46",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "firebase_performance_web",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/firebase_performance_web-0.1.7+4",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "fixnum",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/fixnum-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "fl_chart",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/fl_chart-0.68.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///Users/volodymyr/Library/Application%20Support/io.flutterflow.prod.mac/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "flutter_animate",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/flutter_animate-4.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_cache_manager",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/flutter_cache_manager-3.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "flutter_keyboard_visibility",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/flutter_keyboard_visibility-6.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_keyboard_visibility_linux",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/flutter_keyboard_visibility_linux-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_keyboard_visibility_macos",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/flutter_keyboard_visibility_macos-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_keyboard_visibility_platform_interface",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/flutter_keyboard_visibility_platform_interface-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_keyboard_visibility_web",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/flutter_keyboard_visibility_web-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_keyboard_visibility_windows",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/flutter_keyboard_visibility_windows-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_lints",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/flutter_lints-4.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "flutter_localizations",
+      "rootUri": "file:///Users/volodymyr/Library/Application%20Support/io.flutterflow.prod.mac/flutter/packages/flutter_localizations",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "flutter_shaders",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/flutter_shaders-0.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "flutter_test",
+      "rootUri": "file:///Users/volodymyr/Library/Application%20Support/io.flutterflow.prod.mac/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///Users/volodymyr/Library/Application%20Support/io.flutterflow.prod.mac/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "flutterflow_debug_panel",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/git/debug_panel_devtool-a93384410548a51ac6927276009333d05f454f30/",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "flutterflow_tree_view",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/git/flutter_searchable_treeview-798f3690bc41cb94adb06e5b8738ed7e0c4974a2/",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "font_awesome_flutter",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/font_awesome_flutter-10.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "from_css_color",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/from_css_color-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "go_router",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/go_router-12.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "google_fonts",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/google_fonts-6.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "google_identity_services_web",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/google_identity_services_web-0.3.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "google_sign_in",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/google_sign_in-6.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "google_sign_in_android",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.30",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "google_sign_in_ios",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/google_sign_in_ios-5.7.7",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "google_sign_in_platform_interface",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/google_sign_in_platform_interface-2.4.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "google_sign_in_web",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/google_sign_in_web-0.12.4+2",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/http-1.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/http_parser-4.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/intl-0.19.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "io",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/io-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "iregexp",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/iregexp-0.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "json_path",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/json_path-0.7.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "json_rpc_2",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/json_rpc_2-3.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "just_the_tooltip",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/just_the_tooltip-0.0.12",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "leak_tracker",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/leak_tracker-10.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "leak_tracker_flutter_testing",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.8",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "leak_tracker_testing",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/leak_tracker_testing-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/lints-4.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/logging-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/matcher-0.12.16+1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "material_color_utilities",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/material_color_utilities-0.11.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "maybe_just_nothing",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/maybe_just_nothing-0.5.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/meta-1.15.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mime_type",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/mime_type-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "nested",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "octo_image",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/octo_image-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "page_transition",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/page_transition-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/path-1.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "path_provider",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/path_provider-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "path_provider_android",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/path_provider_android-2.2.10",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "path_provider_foundation",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "path_provider_linux",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "path_provider_platform_interface",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "path_provider_windows",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "percent_indicator",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/percent_indicator-4.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/petitparser-6.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "photo_view",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/photo_view-0.15.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "platform",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/platform-3.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "pointer_interceptor",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/pointer_interceptor-0.10.1+2",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "pointer_interceptor_ios",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/pointer_interceptor_ios-0.10.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "pointer_interceptor_platform_interface",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/pointer_interceptor_platform_interface-0.10.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "pointer_interceptor_web",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/pointer_interceptor_web-0.10.2+1",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "pool",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/pool-1.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "protobuf",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/protobuf-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/provider-6.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "recase",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/recase-4.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "rfc_6901",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/rfc_6901-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "rxdart",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/rxdart-0.27.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "shared_preferences",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/shared_preferences-2.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "shared_preferences_android",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/shared_preferences_android-2.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "shared_preferences_foundation",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "shared_preferences_linux",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "shared_preferences_platform_interface",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/shared_preferences_platform_interface-2.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "shared_preferences_web",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/shared_preferences_web-2.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "shared_preferences_windows",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "shelf",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/shelf-1.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "sign_in_with_apple",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/sign_in_with_apple-6.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "sign_in_with_apple_platform_interface",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/sign_in_with_apple_platform_interface-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "sign_in_with_apple_web",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/sign_in_with_apple_web-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///Users/volodymyr/Library/Application%20Support/io.flutterflow.prod.mac/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "smooth_page_indicator",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/smooth_page_indicator-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/source_span-1.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "sprintf",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/sprintf-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "sqflite",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/sqflite-2.3.3+1",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "sqflite_common",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/sqflite_common-2.5.4+3",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "sse",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/sse-4.1.7",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/stack_trace-1.12.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/stream_channel-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "stream_transform",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/stream_transform-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/string_scanner-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "synchronized",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/synchronized-3.3.0+3",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/term_glyph-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/test_api-0.7.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "text_search",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/text_search-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "timeago",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/timeago-3.6.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "tuple",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/tuple-2.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/typed_data-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "unified_analytics",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/unified_analytics-7.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "url_launcher",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/url_launcher-6.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "url_launcher_android",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.10",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "url_launcher_ios",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "url_launcher_linux",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/url_launcher_linux-3.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "url_launcher_macos",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "url_launcher_platform_interface",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/url_launcher_platform_interface-2.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "url_launcher_web",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/url_launcher_web-2.3.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "url_launcher_windows",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "uuid",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/uuid-4.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "vm_service",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/vm_service-14.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "web",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/web-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "web_socket",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/web_socket-0.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "web_socket_channel",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/web_socket_channel-3.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "webkit_inspection_protocol",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/webkit_inspection_protocol-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "webview_flutter",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/webview_flutter-4.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "webview_flutter_android",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/webview_flutter_android-3.16.9",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "webview_flutter_platform_interface",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/webview_flutter_platform_interface-2.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "webview_flutter_wkwebview",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.18.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "webviewx_plus",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/webviewx_plus-0.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "xdg_directories",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/xdg_directories-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/yaml-3.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "yaml_edit",
+      "rootUri": "file:///Users/volodymyr/.pub-cache/hosted/pub.dev/yaml_edit-2.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "evolve",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generated": "2025-02-14T15:54:09.963176Z",
+  "generator": "pub",
+  "generatorVersion": "3.6.1",
+  "flutterRoot": "file:///Users/volodymyr/Library/Application%20Support/io.flutterflow.prod.mac/flutter",
+  "flutterVersion": "3.27.3",
+  "pubCache": "file:///Users/volodymyr/.pub-cache"
+}
